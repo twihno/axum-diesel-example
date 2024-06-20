@@ -1,0 +1,6 @@
+*
+!src
+!migrations
+!assets
+!Cargo.*
+!diesel.toml
