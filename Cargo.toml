@@ -9,7 +9,7 @@ edition = "2021"
 lto = "fat"
 
 [dependencies]
-axum = { version = "0.7", features = [
+axum = { version = "0.8", features = [
   "macros",
   "tracing",
   "query",
