@@ -16,7 +16,7 @@ axum = { version = "0.7", features = [
   "json",
   "tokio",
 ] }
-bb8 = "0.8"
+bb8 = "0.9"
 chrono = { version = "0.4", features = ["serde"] }
 uuid = { version = "1", features = ["v4", "macro-diagnostics", "serde"] }
 diesel = { version = "2", features = [
